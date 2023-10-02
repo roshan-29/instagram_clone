@@ -1,0 +1,16 @@
+.html{
+   background-color: black;
+}
+.sidenav{
+    position: fixed;
+    display: flex;
+    
+
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 1;
+}
+.logo{
+    margin: 25px;
+    width: 120px;
+}
